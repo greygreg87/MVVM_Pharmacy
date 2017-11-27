@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--DataZapisania: 11/26/2017 22:13:33-->
+<WybraneLeki>
+  <Lek>
+    <Nazwa>Centrum 30 tabl</Nazwa>
+    <CenaJednostkowa>29.99</CenaJednostkowa>
+    <Ilość>12</Ilość>
+    <CenaSumaryczna>359.88</CenaSumaryczna>
+  </Lek>
+  <Lek>
+    <Nazwa>Geriamoc 100 kaps.</Nazwa>
+    <CenaJednostkowa>34.99</CenaJednostkowa>
+    <Ilość>2</Ilość>
+    <CenaSumaryczna>69.98</CenaSumaryczna>
+  </Lek>
+  <Lek>
+    <Nazwa>Falwit 60 tabl.</Nazwa>
+    <CenaJednostkowa>24.99</CenaJednostkowa>
+    <Ilość>3</Ilość>
+    <CenaSumaryczna>74.97</CenaSumaryczna>
+  </Lek>
+</WybraneLeki>

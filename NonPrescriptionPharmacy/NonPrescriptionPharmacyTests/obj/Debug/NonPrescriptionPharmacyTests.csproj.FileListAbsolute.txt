@@ -1,0 +1,16 @@
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\NonPrescriptionPharmacyTests.dll
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\NonPrescriptionPharmacyTests.pdb
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\NonPrescriptionPharmacy.exe
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\System.Data.SQLite.dll
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\NonPrescriptionPharmacy.pdb
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\NonPrescriptionPharmacy.exe.config
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\System.Data.SQLite.xml
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\System.Data.SQLite.dll.config
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\obj\Debug\NonPrescriptionPharmacyTests.csprojResolveAssemblyReference.cache
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\obj\Debug\NonPrescriptionPharmacyTests.csproj.CoreCompileInputs.cache
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\obj\Debug\NonPrescriptionPharmacyTests.dll
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\obj\Debug\NonPrescriptionPharmacyTests.pdb
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\Newtonsoft.Json.dll
+G:\Multimedia\1) Dokumenty\4) Programy\9) Visual Studio\Własne\NonPrescriptionPharmacy\NonPrescriptionPharmacyTests\bin\Debug\Newtonsoft.Json.xml
