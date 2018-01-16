@@ -146,7 +146,9 @@ namespace NonPrescriptionPharmacy.ViewModels
         public ICommand SummaryMedicamentCommand { get; set; }
         private void SummaryMedicament(object obj)
         {
-            SummaryWindow window = new SummaryWindow(ListOfChoosenMedicament, TotalCost);
+            SummaryWindow window = new SummaryWindow();
+            SummaryViewModel windowVm = new SummaryViewModel(ListOfChoosenMedicament, TotalCost, window);
+            window.DataContext = windowVm;
             window.Show();
         }
 
@@ -159,7 +161,7 @@ namespace NonPrescriptionPharmacy.ViewModels
         public ICommand LoadListOfMedicament { get; set; }
         private void LoadList (object obj)
         {
-            ListOfMedicament = new PharmacyOfferModel(TypeOfMedicament).MedicamentList;
+            ListOfMedicament = new PharmacyOfferModel(TypeOfMedicament, new ObservableCollection<MedicamentModel>()).MedicamentList;
         }
 
         private bool CanLoadList(object obj)

@@ -11,16 +11,18 @@ namespace NonPrescriptionPharmacy.Models
     public class PharmacyOfferModel
     {
         #region Constructors
-        public PharmacyOfferModel(string s)
+        public PharmacyOfferModel(string s, ObservableCollection<MedicamentModel> mm)
         {
+            MedicamentList = mm;
             BaseReader(s);
         }
         #endregion
 
         #region Fields & Properties
-        private ObservableCollection<MedicamentModel> medicamentList = new ObservableCollection<MedicamentModel>();
+        private ObservableCollection<MedicamentModel> medicamentList;
         public ObservableCollection<MedicamentModel> MedicamentList
         {
+            set { medicamentList = value; }
             get { return medicamentList; }
         }
         #endregion

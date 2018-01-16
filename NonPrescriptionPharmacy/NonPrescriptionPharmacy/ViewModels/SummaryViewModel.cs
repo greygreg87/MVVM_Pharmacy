@@ -59,6 +59,7 @@ namespace NonPrescriptionPharmacy.ViewModels
         private void Cancel(object obj)
         {
             SummaryWindow.Close();
+            
         }
         private bool CanCancel(object obj)
         {

@@ -17,23 +17,10 @@ using System.Windows.Shapes;
 
 namespace NonPrescriptionPharmacy.Views
 {
-    /// <summary>
-    /// Logika interakcji dla klasy SummaryWindow.xaml
-    /// </summary>
     public partial class SummaryWindow : Window
     {
-        public ObservableCollection<ChoosenMedicamentModel> SummaryList;
-        public double SummaryCost = 0;
-        SummaryViewModel viewModel;
-        Window window;
-
-        public SummaryWindow(ObservableCollection<ChoosenMedicamentModel> list, double cost)
+        public SummaryWindow()
         {
-            SummaryList = list;
-            SummaryCost = cost;
-            window = this;
-            viewModel = new SummaryViewModel(SummaryList, SummaryCost, window);
-            this.DataContext = viewModel;
             InitializeComponent();
         }
     }
